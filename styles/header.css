@@ -1,18 +1,21 @@
 header {
   padding-block: 32px;
   font: var(--text-md);
+  
 }
 
 header .container {
   display: flex;
-  justify-content: space-between;
+  gap: 360px;
   align-items: center;
+  
 }
 
 
 #profile {
   display: flex;
   gap: 32px;
+  
 }
 
 #profile > div { 
